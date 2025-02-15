@@ -1,0 +1,9 @@
+Repositorio: https://github.com/miloarrieta/ArquitecturaLimpia
+
+
+Tecnologías usadas:
+Node.js - Para ejecutar el entorno de JavaScript en el backend.
+TypeScript - Para escribir código tipado y más estructurado.
+Express.js - Framework minimalista para manejar rutas y peticiones HTTP.
+SQLite - Base de datos liviana y embebida para almacenar la información.
+Sequelize - ORM para manejar la base de datos SQLite de manera más sencilla.
